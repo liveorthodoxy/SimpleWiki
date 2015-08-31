@@ -1,6 +1,5 @@
 <?php
 /**
- * Author: xuqingfeng <js-xqf@hotmail.com>
  * Date: 15/8/28
  */
 require_once __DIR__ . "/../autoload.php";

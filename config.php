@@ -1,6 +1,5 @@
 <?php
 /**
- * Author: xuqingfeng <js-xqf@hotmail.com>
  * Date: 15/2/27
  */
 
@@ -10,7 +9,7 @@ return [
     "WIKI_FILE_EXTENSION" => ".md",
     "DEFAULT_VIEW"        => __DIR__ . "/views/default",
     "DEFAULT_WIKI"        => __DIR__ . "/README",
-    "TIMEZONE"            => "Asia/Shanghai",
+    "TIMEZONE"            => "America/Chicago",
     "IGNORE_FILES"        => [
         ".gitignore",
         ".",

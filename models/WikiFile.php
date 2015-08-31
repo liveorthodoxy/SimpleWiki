@@ -1,7 +1,6 @@
 <?php
 
 /**
- * Author: xuqingfeng <js-xqf@hotmail.com>
  * Date: 15/2/27
  */
 

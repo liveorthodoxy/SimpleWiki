@@ -1,6 +1,5 @@
 <?php
 /**
- * Author: xuqingfeng <xuqingfeng@tuniu.com>
  * Date: 15/8/31
  */
 
