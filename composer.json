@@ -1,18 +1,18 @@
 {
-    "name": "xuqingfeng/simplewiki",
-    "description": "a simple & small wiki service just as you need",
+    "name": "liveorthodoxy/simplewiki",
+    "description": "St. Antony Tulsa's Wiki",
     "type": "library",
     "keywords": [
         "wiki",
         "cms"
     ],
     "minimum-stability": "dev",
-    "homepage": "https://demo4simplewiki.herokuapp.com/",
+    "homepage": "https://stantonytulsa.herokuapp.com/",
     "license": "GPL-3.0",
     "authors": [
         {
-            "name": "xuqingfeng",
-            "email": "js-xqf@hotmail.com"
+            "name": "thomcrowe",
+            "email": "tcrowe@stantonytulsa.com"
         }
     ],
     "require": {
